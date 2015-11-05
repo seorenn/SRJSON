@@ -6,7 +6,7 @@
 //  Copyright © 2015년 Seorenn. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for SRJSON.
 FOUNDATION_EXPORT double SRJSONVersionNumber;

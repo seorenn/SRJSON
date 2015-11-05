@@ -456,6 +456,7 @@
 				8AFEBE4D1BEB514200336A87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8AFEBE4E1BEB514200336A87 /* Build configuration list for PBXNativeTarget "SRJSONTestAppTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +465,7 @@
 				8AFEBE501BEB514200336A87 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
